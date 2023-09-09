@@ -12,13 +12,15 @@ O algoritmo começa com um estado inicial aleatório e itera até encontrar um e
 
 ## Execuções:
 
-![Untitled](imagens/Untitled.png)
+<div align="center" >
+  <img src="imagens/Untitled.png" alt="Texto Alternativo" width="500">
+</div>
 
-![Untitled](imagens/Untitled%201.png)
-
-![Untitled](imagens/Untitled%202.png)
-
-![Untitled](imagens/Untitled%203.png)
+<div style="display: flex;" align="center">
+  <img src="imagens/Untitled%201.png" alt="Imagem 1" width="320">
+  <img src="imagens/Untitled%202.png" alt="Imagem 2" width="320">
+  <img src="imagens/Untitled%203.png" alt="Imagem 3" width="320">
+</div>
 
 # 2 - Simulated Annealing
 
@@ -26,15 +28,16 @@ O algoritmo começa com um estado inicial aleatório, realiza movimentos aleató
 
 ## Execuções:
 
-![Untitled](imagens/Untitled%204.png)
+<div align="center" >
+  <img src="imagens/Untitled%204.png" alt="Texto Alternativo" width="500">
+</div>
 
 obs: A cada pico, é o inicio de uma nova execução, dando um total de 5 picos, ou seja, 5 execuções.
-
-![Untitled](imagens/Untitled%205.png)
-
-![Untitled](imagens/Untitled%206.png)
-
-![Untitled](imagens/Untitled%207.png)
+<div style="display: flex;" align="center">
+  <img src="imagens/Untitled%205.png" alt="Imagem 1" width="400">
+  <img src="imagens/Untitled%206.png" alt="Imagem 2" width="400">
+  <img src="imagens/Untitled%207.png" alt="Imagem 3" width="400">
+</div>
 
 # 3 - Genético
 
@@ -44,17 +47,17 @@ Durante as execuções não observei mudanças significativas alterando a probab
 
 ## Execuções:
 
-![Untitled](imagens/Untitled%208.png)
-
-![Untitled](imagens/Untitled%209.png)
+<div align="center" >
+  <img src="imagens/Untitled%208.png" alt="Texto Alternativo" width="800">
+  <img src="imagens/Untitled%209.png" alt="Texto Alternativo" width="500">
+</div>
 
 obs: resultados de uma das 5 execuções de cada N
-
-![Untitled](imagens/Untitled%2010.png)
-
-![Untitled](imagens/Untitled%2011.png)
-
-![Untitled](imagens/Untitled%2012.png)
+<div style="display: flex;" align="center">
+  <img src="imagens/Untitled%2010.png" alt="Imagem 1" width="400">
+  <img src="imagens/Untitled%2011.png" alt="Imagem 2" width="400">
+  <img src="imagens/Untitled%2012.png" alt="Imagem 3" width="400">
+</div>
 
 # Conclusão:
 
